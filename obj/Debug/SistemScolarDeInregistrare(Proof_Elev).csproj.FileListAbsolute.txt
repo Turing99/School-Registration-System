@@ -1,0 +1,12 @@
+E:\Csh\SistemScolarDeInregistrare(Proof_Elev)\bin\Debug\SistemScolarDeInregistrare(Proof_Elev).exe.config
+E:\Csh\SistemScolarDeInregistrare(Proof_Elev)\bin\Debug\SistemScolarDeInregistrare(Proof_Elev).exe
+E:\Csh\SistemScolarDeInregistrare(Proof_Elev)\bin\Debug\SistemScolarDeInregistrare(Proof_Elev).pdb
+E:\Csh\SistemScolarDeInregistrare(Proof_Elev)\bin\Debug\MaterialSkin.dll
+E:\Csh\SistemScolarDeInregistrare(Proof_Elev)\obj\Debug\SistemScolarDeInregistrare(Proof_Elev).csprojAssemblyReference.cache
+E:\Csh\SistemScolarDeInregistrare(Proof_Elev)\obj\Debug\SistemScolarDeInregistrare_Proof_Elev_.Properties.Resources.resources
+E:\Csh\SistemScolarDeInregistrare(Proof_Elev)\obj\Debug\SistemScolarDeInregistrare(Proof_Elev).csproj.GenerateResource.cache
+E:\Csh\SistemScolarDeInregistrare(Proof_Elev)\obj\Debug\SistemScolarDeInregistrare(Proof_Elev).csproj.CoreCompileInputs.cache
+E:\Csh\SistemScolarDeInregistrare(Proof_Elev)\obj\Debug\SistemScolarDeInregistrare(Proof_Elev).csproj.CopyComplete
+E:\Csh\SistemScolarDeInregistrare(Proof_Elev)\obj\Debug\SistemScolarDeInregistrare(Proof_Elev).exe
+E:\Csh\SistemScolarDeInregistrare(Proof_Elev)\obj\Debug\SistemScolarDeInregistrare(Proof_Elev).pdb
+E:\Csh\SistemScolarDeInregistrare(Proof_Elev)\obj\Debug\SistemScolarDeInregistrare_Proof_Elev_.FrmSystem.resources
